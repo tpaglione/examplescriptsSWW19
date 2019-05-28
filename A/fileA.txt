@@ -1,0 +1,4 @@
+includes the ability to automate tasks with scripts, efficiently
+navigate through files and the file system, version control code,
+leverage object oriented programming at each step of a workflow, and
+maximize online r 
